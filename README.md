@@ -4,7 +4,7 @@ My self built and customized [MagicMirror](https://magicmirror.builders/), prima
 
 ![MagicMirror - Version 1](pics/MagicMirror.png "MagicMirror")
 
-**Note the empty spot on the right? There is still a todo**: I want to integrate our photovoltaics data, as soon as the construction work is done.
+**Note the empty space on the right? There is still a todo left**: I want to integrate our photovoltaics data and energy consumption, as soon as the construction work is done.
 
 ## Widget List
 
